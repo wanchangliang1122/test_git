@@ -20,6 +20,7 @@
     
     
     self.view.backgroundColor = [UIColor redColor];
+    NSLog(@"%@",self.view);
 }
 
 
