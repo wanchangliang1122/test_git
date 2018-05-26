@@ -21,6 +21,7 @@
     
     self.view.backgroundColor = [UIColor redColor];
     NSLog(@"%@",self.view);
+    self.view.backgroundColor = [UIColor greenColor];
 }
 
 
